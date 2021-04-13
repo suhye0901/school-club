@@ -1,6 +1,14 @@
-## Welcome to GitHub Pages
+## 동국고등학교에 오신 것을 환영합니다.
 
-You can use the [editor on GitHub](https://github.com/suhye0901/school-club/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+동국고등학교에 관해 다양한 것을 안내하고자 합니다. 
+
+# 다음을 안내하고자 합니다.
+## 우리학교 소개
+### 학교연혁
+### 교직원 소개
+### 동아리 활동
+### 오시는 길
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

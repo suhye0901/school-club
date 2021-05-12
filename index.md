@@ -7,18 +7,24 @@
 앤(Anne) 선생님은 동아리 총괄 담당 선생님으로서 학생들에게 동아리 각종 사항들을 안내합니다. 자신이 맡은 일에 있어서는 파고들 정도로 최선을 다해 준비하는 선생님이기에 여러분에게 많은 동아리에 관한 정보를 제공할 것입니다.
 
 
-### 동아리 담당 선생님
-### 동아리 게시판
-### 동아리 운영 방안
-### 챗봇 제작자
+### 동아리 활동 목적
+동아리는 학교 교육과정에 의거하여 이루어지는 활동으로서 연간 약 10회 내외로 이루어집니다. 특히 각 학교마다, 그리고 동아리마다 다양한 특색을 가지고 있으며 학생들 즉 기장들을 중심으로 다채롭게 활동이 이루어집니다.
+
+### 동아리 연간 운영 계획
+1학기 :  4월7일, 5월12일, 6월18일, 7월14일
+2학기 :  9월2일, 10월3일, 11월25일, 12월4일
+[동아리는 학교 운영 상황 및 코로나 상황에 따라 변경될 수도 있습니다.]
+[코로나 확진자 발생으로 인해 학교가 전면 온라인 수업으로 전환될 시, 동아리 활동도 온라인으로 이루어집니다.]
+
+### 동아리 게시판(기장용)
+
+
+## 챗봇 제작자
 
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
